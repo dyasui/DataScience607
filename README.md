@@ -30,6 +30,8 @@ Files which go along with Grant McDermott's EC607 class
  
 **Task:** Add collaborators to a repository, make new branch and merge a pull request
 
+ - Does this cause a merge conflict if I try to update this into the main branch>?
+
 ### About Forks
 [About Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)
 
