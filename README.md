@@ -33,3 +33,5 @@ Files which go along with Grant McDermott's EC607 class
 ### About Forks
 [About Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)
 
+Making an edit to try to merge conflict
+
